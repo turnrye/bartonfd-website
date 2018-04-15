@@ -32,5 +32,3 @@ excerpt: 'Support Barton Fire Department today to help our volunteers provide ou
 #     btn_class: "btn--primary"
 #     btn_label: "Learn More"
 ---
-
-Coming soon
