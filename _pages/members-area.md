@@ -1,6 +1,7 @@
 ---
 title: "Members Area"
 permalink: /members-area/
+layout: single
 ---
 
 ## Calendar
