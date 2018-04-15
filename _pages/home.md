@@ -2,7 +2,8 @@
 layout: splash
 permalink: /home/
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
+  overlay_filter: 0.5
   overlay_image: /assets/images/site-logo.jpg
   cta_label: "<i class='fas fa-donate'></i> Donate"
   cta_url: "/donate/"
