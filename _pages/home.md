@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/site-logo.jpg
   cta_label: "<i class='fas fa-donate'></i> Donate"
   cta_url: "/donate/"
   caption:
