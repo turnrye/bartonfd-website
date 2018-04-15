@@ -1,5 +1,5 @@
 main:
+  - title: "News"
+    url: /year-archive/
   - title: "Members Area"
     url: /members-area/
-  - title: "News"
-    url: /news/
