@@ -1,7 +1,6 @@
 ---
 title: "Members Area"
 permalink: /members-area/
-classes: wide
 ---
 
 ## Calendar
