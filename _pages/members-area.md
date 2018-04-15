@@ -1,7 +1,9 @@
 ---
-title: "Calendar"
-permalink: /calendar/
+title: "Members Area"
+permalink: /members-area/
 classes: wide
 ---
+
+## Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=8t6q27rou9nbdvb0opaur9sk8c%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> 

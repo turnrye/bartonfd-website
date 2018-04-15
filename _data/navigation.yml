@@ -1,3 +1,5 @@
 main:
-  - title: "Calendar"
-    url: /calendar/
+  - title: "Members Area"
+    url: /members-area/
+  - title: "News"
+    url: /news/
